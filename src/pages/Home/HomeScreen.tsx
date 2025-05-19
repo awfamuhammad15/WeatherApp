@@ -19,7 +19,7 @@ const HomeScreen = () => {
 
   return (
     <View style={styles.container}>
-      <Text>Masukkan Nama Kota</Text>
+      <Text>Masukkan Nama Kota?</Text>
       <TextInput
         placeholder="Enter city name"
         value={city}
